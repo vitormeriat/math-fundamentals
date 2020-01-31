@@ -1,5 +1,5 @@
 # Math Fundamentals
 
-![map](math_map.png)
+![map](img/math_map.png)
 
 É hora da matemática...
